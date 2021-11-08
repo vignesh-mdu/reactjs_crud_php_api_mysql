@@ -1,0 +1,13 @@
+.user {
+  margin: 1rem;
+  color: white;
+}
+
+.user h2 {
+  font-size: 2rem;
+}
+
+.user h3 {
+  margin: 0;
+  font-size: 1rem;
+}

@@ -1,0 +1,13 @@
+section {
+
+  width: 90%;
+  max-width: 40rem;
+  text-align: center;
+  background-color: white;
+
+}
+
+button {
+  font: inherit;
+  cursor: pointer;
+}
